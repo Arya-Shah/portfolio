@@ -63,7 +63,6 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "111 Hutton St, Jersey City, NJ, 07307 ",
   phoneNo: "+1 857-995-3393",
   email: "arya.apps14@gmail.com",
 };
